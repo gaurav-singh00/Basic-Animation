@@ -1,2 +1,2 @@
 # Basic-Animation
-Create a Basic Animation using HTML and CSS
+CreateD a Basic Animation using HTML and CSS
